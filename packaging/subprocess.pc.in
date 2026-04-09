@@ -1,0 +1,8 @@
+prefix=@CMAKE_INSTALL_PREFIX@
+libdir=${prefix}/lib
+
+Name: subprocess
+Version: @PROJECT_VERSION@
+Description: @PROJECT_DESCRIPTION@
+Libs: -L${libdir} -lsubprocess
+Cflags: -fprebuilt-module-path=${libdir}/cxx/bmi
