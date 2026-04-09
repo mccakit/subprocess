@@ -1,6 +1,6 @@
 # subprocess
 
-A port of [beman/subprocess](https://github.com/bemanproject/subprocess) to C++ named modules.
+A port of [beman/subprocess]([https://github.com/bemanproject/subprocess](https://github.com/benman64/subprocess)) to C++ named modules.
 
 ## Dependencies
 
